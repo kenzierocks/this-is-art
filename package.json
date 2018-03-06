@@ -1,0 +1,39 @@
+{
+  "name": "this-is-art",
+  "version": "1.0.0",
+  "description": "_When you hear a buzzer, stare at the art._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bootstrap": "^4.0.0",
+    "@types/cytoscape": "^3.1.7",
+    "@types/jquery": "^3.2.12",
+    "@types/jqueryui": "^1.11.36",
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.0",
+    "bootstrap": "^4.0.0",
+    "chokidar-cli": "^1.2.0",
+    "cytoscape": "^3.2.9",
+    "jquery": "^3.2.1",
+    "jqueryui": "^1.11.1",
+    "live-server": "^1.2.0",
+    "object.entries": "^1.0.4",
+    "rollup": "^0.56.3",
+    "rollup-plugin-babel": "^3.0.2",
+    "rollup-plugin-commonjs": "^8.2.0",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-plugin-replace": "^2.0.0",
+    "rollup-plugin-sourcemaps": "^0.4.2",
+    "rollup-plugin-typescript2": "^0.11.1",
+    "rollup-plugin-uglify": "^3.0.0",
+    "rollup-watch": "^4.3.1",
+    "type-zoo": "^1.0.1",
+    "typescript": "^2.6.2",
+    "uglify-es": "^3.0.28"
+  }
+}
